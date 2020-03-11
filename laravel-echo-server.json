@@ -1,5 +1,5 @@
 {
-	"authHost": "http://laravelecho.site",
+	"authHost": "http://laravel-echo-example.site",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [],
 	"database": "redis",
